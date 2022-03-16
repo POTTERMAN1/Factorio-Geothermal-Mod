@@ -1,0 +1,9 @@
+{
+    "name": "Geothermal Energy",
+    "version": "0.0.1",
+    "title": "Geothermal Energy",
+    "author": "Kolacz and POTTERMAN",
+    "description": "Adds a geothermal energy sources to the game",
+    "factorio_version": "1.1",
+    "dependencies": ["base"]
+}
