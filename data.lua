@@ -1,1 +1,1 @@
-require(geothermal-pump)
+require(geo_pumjack)
