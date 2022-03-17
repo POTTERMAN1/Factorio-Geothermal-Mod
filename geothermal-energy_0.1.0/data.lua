@@ -1,10 +1,10 @@
 --Entities
 
-require("prototypes/entities/geo_pumpjack")
+require("prototypes/entities/geothermal-pump-mk1")
 
 --items
 
-require("prototypes/items/geo_pumpjack")
+require("prototypes/items/geothermal_pump_mk1")
 
 --categories
 
