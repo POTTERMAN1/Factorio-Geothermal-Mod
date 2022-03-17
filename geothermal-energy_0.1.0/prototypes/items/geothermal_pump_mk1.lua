@@ -1,7 +1,7 @@
 data:extend({
     type = "item",
     name = "geothermal-pump-mk1",
-    icon = "",
+    icon = "__geothermal-energy__/graphics/prototypes/items/geothermal-pump-icon.png",
     icon_size = 64,
     icon_mimaps = 4,
     subgroup = "extraction-machine",
