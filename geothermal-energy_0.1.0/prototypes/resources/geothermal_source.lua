@@ -4,7 +4,7 @@ data:extend({
 	{
 		type = "resource",
 		name = "geothermal-source",
-		icon = "__geothermal-energy__/graphics/geothermal-source-icon.png",
+		icon = "__geothermal-energy__/graphics/prototypes/resources/geothermal-source-icon.png",
 		icon_size = 64,
 		icon_mimaps = 4,
 		flags = { "placeable-neutral" },
@@ -50,7 +50,7 @@ data:extend({
     stage_counts = { 0 },
     stages = {
       sheet = {
-        filename =  "__geothermal-energy__/graphics/geothermal-source.png",
+        filename =  "__geothermal-energy__/graphics/prototypes/resources/geothermal-source.png",
         priority = "extra-high",
         width = 128,
         height = 128,
