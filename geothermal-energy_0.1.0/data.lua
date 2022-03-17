@@ -13,3 +13,7 @@ require("prototypes/categories/resource-categories")
 --resources
 
 require("prototypes/resources/geothermal_source")
+
+--technologies
+
+require("prototypes/technology/geothermal_technology")
