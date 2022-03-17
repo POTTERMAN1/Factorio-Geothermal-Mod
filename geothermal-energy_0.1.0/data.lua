@@ -1,6 +1,6 @@
 --Entities
 
-require("prototypes/entities/geothermal-pump-mk1")
+require("prototypes/entities/geothermal_pump_mk1")
 
 --items
 
@@ -8,7 +8,7 @@ require("prototypes/items/geothermal_pump_mk1")
 
 --categories
 
-require("prototypes/categories/resource-categories")
+require("prototypes/categories/resource_categories")
 
 --resources
 
