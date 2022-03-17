@@ -4,7 +4,7 @@ data:extend({
         name = "geothermal-technology",
         icon_size = 64,
         icon_mimaps = 4,
-        icon = "geothermal-energy/graphics/geothermal-source-icon.png",
+        icon = "__geothermal-energy__/graphics/prototypes/icons/geothermal-source-icon.png",
         effects = {
             {
                 type = "unlock-recipe",

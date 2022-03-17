@@ -4,7 +4,7 @@ data:extend({
 	{
 		type = "resource",
 		name = "geothermal-source",
-		icon = "__geothermal-energy__/graphics/prototypes/resources/geothermal-source-icon.png",
+		icon = "__geothermal-energy__/graphics/prototypes/icons/geothermal-source-icon.png",
 		icon_size = 64,
 		icon_mimaps = 4,
 		flags = { "placeable-neutral" },
